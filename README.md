@@ -1,7 +1,7 @@
 wikipedia-commons
 =================
 
-Android application for Upload Photos from Android device to Marathi Wikipedia 
+Android application for Upload Photos,creating and updating articles from Android device to Marathi Wikipedia 
 
 * -You has to be registered member of Wikipedia. -Go to Gallery 
 * -Select image or capture new image -Share it via "Share MarathiWikipedia" 
